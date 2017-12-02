@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/v1" android:title="Ventana1"/>
+    <item android:id="@+id/v2" android:title="Ventana2" />
+    <item android:id="@+id/v3" android:title="Ventana3" />
+</menu>
